@@ -2,6 +2,8 @@
 
 Jupyter notebooks of the figures from Ryden &amp; Pogge, *Interstellar and Intergalactic Medium*.
 
+This repository is under construction and will be fully populated around the time the book appears in print in Spring of 2021.
+
 ## Overview
 [*Interstellar and Intergalactic Medium*](https://www.cambridge.org/highereducation/books/interstellar-and-intergalactic-medium/A647BECF975E19E86F7F88F7BB103AA7)
 by Barbara S. Ryden and Richard W. Pogge is the first volume in the *Ohio State Astrophysics Series* of textbooks to be 
@@ -40,8 +42,6 @@ and the ChiantiPy package.
 The notebooks and their contents are original works of the authors and often include data obtained from public archives or from 
 professional colleagues (always from published sources).  We ask that users preserve all literature citations to the original work
 from which such data were derived, and give proper credit when using them. If you use these notebooks, please make
-reference to the *Interstellar and Intergalactic Medium* and this repository. When we get closer to final production before the
-first release of the printed book, we'll close this repository and migrate all the content to Cambridge University Press'
-GitHub.
+reference to the *Interstellar and Intergalactic Medium* and this repository.
 
 The notebooks themselves are licensed under ...
