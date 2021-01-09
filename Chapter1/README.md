@@ -44,4 +44,3 @@ stored in the same folder as the corresponding Jupyter notebooks and uncompresse
 ## Revision History
 
  * v1.0 - 2021 Jan 8, first version in advance of publication [rwp/osu]
-
