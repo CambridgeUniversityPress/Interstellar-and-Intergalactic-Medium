@@ -1,6 +1,6 @@
 # Interstellar and Intergalactic Medium
 
-Jupyter notebooks of the figures from Ryden &amp; Pogge, *Interstellar and Intergalactic Medium*.
+Jupyter notebooks and source files for the figures from Ryden &amp; Pogge, *Interstellar and Intergalactic Medium*.
 
 This repository is under construction and will be fully populated around the time the book appears in print in Spring of 2021.
 
