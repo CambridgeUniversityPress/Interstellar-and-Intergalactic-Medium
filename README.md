@@ -2,7 +2,7 @@
 
 Jupyter notebooks and source files for the figures from Ryden &amp; Pogge, *Interstellar and Intergalactic Medium*.
 
-[![Orion Nebula](https://github.com/CambridgeUniversityPress/Interstellar-and-Intergalactic-Medium/blob/master/Misc/ISMIGM_Cover_1280.png?raw=true)](https://github.com/CambridgeUniversityPress/Interstellar-and-Intergalactic-Medium "Interstellar and Intergalactic Medium")
+[(https://github.com/CambridgeUniversityPress/Interstellar-and-Intergalactic-Medium/blob/master/Misc/ISMIGM_Cover_1280.png?raw=true)](https://github.com/CambridgeUniversityPress/Interstellar-and-Intergalactic-Medium "Interstellar and Intergalactic Medium")
 
 This repository is under construction and will be fully populated around the time the book appears in print in Spring of 2021.
 
