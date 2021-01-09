@@ -27,15 +27,18 @@ and new explorations rather than being frozen into print.
 All notebooks were developed in Python 3 using the [Anaconda Python distribution](www.anaconda.com).  
 Primary packages used are numpy, scipy, pandas, matplotlib, and astropy.
 
-LaTeX is required as this is used for plotting text and symbols in the notebooks.
+LaTeX is required for rendering math symbols in the notebooks.
 
 Additional packages we used for a few of the figures that are not part of the Anaconda distribution are:
 
  * HEALPix format FITS files require use of [healpy](https://github.com/healpy/healpy) (e.g., for all-sky map data).
 
  * Nebular emission-line calculations use [PyNeb](https://github.com/Morisset/PyNeb_devel).
-
- * Collisional Ionization Equilibrium calculations were performed using [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy/) and the [CHIANTI Atomic Database](https://www.chiantidatabase.org/).  Because CHIANTI calculations are time-consuming, we include pre-calculated data sets. To explore beyond the parameters we chose for the illustrations in the book you need to install the full CHIANTI database and the ChiantiPy package.
+ 
+Collisional Ionization Equilibrium calculations were performed using [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy/) and the 
+[CHIANTI Atomic Database](https://www.chiantidatabase.org/).  Because CHIANTI calculations are time-consuming, we include pre-calculated data sets
+with this package.  Those wishing to explore CIE beyond the parameters we chose for the illustrations in the book will need to install the 
+full CHIANTI database and the ChiantiPy package. **CHIANTI and ChiantiPy are not required to use the notebooks as-is.**
 
 ## Use and Attribution
 
@@ -44,4 +47,4 @@ professional colleagues (always from published sources).  We ask that users pres
 from which such data were derived, and give proper credit when using them. If you use these notebooks, please make
 reference to the *Interstellar and Intergalactic Medium* and this repository.
 
-The notebooks themselves are licensed under ...
+**License notice?**
