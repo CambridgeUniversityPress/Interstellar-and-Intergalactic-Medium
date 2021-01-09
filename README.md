@@ -34,7 +34,9 @@ Additional packages we used for a few of the figures that are not part of the An
  * HEALPix format FITS files require use of [healpy](https://github.com/healpy/healpy) (e.g., for all-sky map data).
 
  * Nebular emission-line calculations use [PyNeb](https://github.com/Morisset/PyNeb_devel).
- 
+
+### Optional Packages
+
 Collisional Ionization Equilibrium calculations were performed using [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy/) and the 
 [CHIANTI Atomic Database](https://www.chiantidatabase.org/).  Because CHIANTI calculations are time-consuming, we include pre-calculated data sets
 with this package.  Those wishing to explore CIE beyond the parameters we chose for the illustrations in the book will need to install the 
