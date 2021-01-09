@@ -16,12 +16,14 @@ Figures 1.10-1.12 are all related and computed in one combined notebook named Fi
 
 The grayscale images (Figures 1.4 through 1.8) were derived from original color images:
 <dl>
-  <dd>Figure 1.4 - Dark Nebula Barnard 68 <a href="https://www.eso.org/public/images/eso0102a">VLT eso0102a</a>
-  <dd>Figure 1.5 - Orion Nebula [HST heic0601a](https://esahubble.org/images/heic0601a)
-  <dd>Figure 1.6 - Ring Nebula [HST heic1310a](https://esahubble.org/images/heic1310a)
-  <dd>Figure 1.7 - Crab Nebula [HST heic0515a](https://esahubble.org/images/heic0515a)
-  <dd>Figure 1.8 - Cygnus Loop [NOIRLab noao1209a](https://noirlab.edu/public/images/noao1209a)
+  <dd>Figure 1.4 - Dark Nebula Barnard 68 0<a href="https://www.eso.org/public/images/eso0102a">VLT eso0102a</a>]
+  <dd>Figure 1.5 - Orion Nebula [<a href="https://esahubble.org/images/heic0601a">HST heic0601a</a>]
+  <dd>Figure 1.6 - Ring Nebula [<a href="https://esahubble.org/images/heic1310a">HST heic1310a</a>]
+  <dd>Figure 1.7 - Crab Nebula [<a href="https://esahubble.org/images/heic0515a">HST heic0515a</a>]
+  <dd>Figure 1.8 - Cygnus Loop [<a href="https://noirlab.edu/public/images/noao1209a">NOIRLab noao1209a</a>]
 </dl>
+Finally, Figure 1.2, a reproduction of William Huggins' 1864 photographic spectrum of the Cat's Eye planetary nebula
+(Plate X, Figure 5 of Huggins 1864, Phil. Trans. R. Soc., 154, 437) made by the authors is provided here.
 
 ## Required Data:
 
