@@ -7,9 +7,8 @@ Jupyter notebooks and source files for the figures from Ryden &amp; Pogge, [*Int
 This repository is under construction and will be fully populated by the time the book appears in print in Spring 2021.
 
 ## Overview
-[*Interstellar and Intergalactic Medium*](https://www.cambridge.org/highereducation/books/interstellar-and-intergalactic-medium/A647BECF975E19E86F7F88F7BB103AA7)
-by Barbara S. Ryden and Richard W. Pogge is the first volume in the *Ohio State Astrophysics Series* of textbooks to be 
-published by Cambridge University Press.  The audience for this series is graduate students and upper-level 
+*Interstellar and Intergalactic Medium* by Barbara S. Ryden and Richard W. Pogge is the first volume in *The Ohio State Astrophysics Series* of 
+textbooks to be published by Cambridge University Press.  The audience for this series is graduate students and upper-level 
 undergraduates studying astronomy and physics.
 
 Most of the figures in this book were created by the authors, the majority of which are plots of data or calculations made using
