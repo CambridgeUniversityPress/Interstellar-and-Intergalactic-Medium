@@ -40,7 +40,7 @@ Additional packages we used for a few of the figures that are not part of the An
 Collisional Ionization Equilibrium calculations were performed using [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy/) and the 
 [CHIANTI Atomic Database](https://www.chiantidatabase.org/).  Because CHIANTI calculations are time-consuming, we include pre-calculated data sets
 with this package.  Those wishing to explore CIE beyond the parameters we chose for the illustrations in the book will need to install the 
-full CHIANTI database and the ChiantiPy package. **CHIANTI and ChiantiPy are not required to use the notebooks as-is.**
+full CHIANTI database and the ChiantiPy package. **CHIANTI and ChiantiPy are not required to use these notebooks.**
 
 ## Use and Attribution
 
