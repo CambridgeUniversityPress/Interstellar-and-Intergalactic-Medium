@@ -28,7 +28,7 @@ The grayscale images in Figures 1.4 through 1.8 were derived from original color
 Figure 1.2, a reproduction of William Huggins' 1864 photographic spectrum of the Cat's Eye planetary nebula
 (Plate X, Figure 5 of Huggins 1864, Phil. Trans. R. Soc., 154, 437) was scanned by the authors and is provided here.
 
-## Required Data:
+## Data Files:
 
 Data sets for Figures 1.3 and 1.9 are too large for GitHub, so we provide links to the online sources here.  The data files need to be
 stored in the same folder as the corresponding Jupyter notebooks and uncompressed.
