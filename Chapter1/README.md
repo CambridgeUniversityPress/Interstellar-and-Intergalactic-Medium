@@ -1,8 +1,10 @@
 # Chapter 1: Introduction
 
-Jupyter notebooks for author-generated figures in Ryden & Pogge, *Interstellar and Intergalactic Medium*, Chapter 1.
+Figures from Chapter 1 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
 ## Contents:
+
+### Jupyter Notebooks:
 <dl>
   <dd>Figure 1.1 - Approximate division of the baryonic mass density of the current
 universe.
@@ -14,7 +16,8 @@ universe.
 </dl>
 Figures 1.10-1.12 are all related and computed in one combined notebook named Fig1_FGH.ipynb.
 
-The grayscale images (Figures 1.4 through 1.8) were derived from original color images:
+### Images:
+The grayscale images in Figures 1.4 through 1.8 were derived from original color images:
 <dl>
   <dd>Figure 1.4 - Dark Nebula Barnard 68 0<a href="https://www.eso.org/public/images/eso0102a">VLT eso0102a</a>]
   <dd>Figure 1.5 - Orion Nebula [<a href="https://esahubble.org/images/heic0601a">HST heic0601a</a>]
@@ -22,8 +25,8 @@ The grayscale images (Figures 1.4 through 1.8) were derived from original color 
   <dd>Figure 1.7 - Crab Nebula [<a href="https://esahubble.org/images/heic0515a">HST heic0515a</a>]
   <dd>Figure 1.8 - Cygnus Loop [<a href="https://noirlab.edu/public/images/noao1209a">NOIRLab noao1209a</a>]
 </dl>
-Finally, Figure 1.2, a reproduction of William Huggins' 1864 photographic spectrum of the Cat's Eye planetary nebula
-(Plate X, Figure 5 of Huggins 1864, Phil. Trans. R. Soc., 154, 437) made by the authors is provided here.
+Figure 1.2, a reproduction of William Huggins' 1864 photographic spectrum of the Cat's Eye planetary nebula
+(Plate X, Figure 5 of Huggins 1864, Phil. Trans. R. Soc., 154, 437) was scanned by the authors and is provided here.
 
 ## Required Data:
 
