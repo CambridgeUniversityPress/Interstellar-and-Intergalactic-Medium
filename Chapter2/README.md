@@ -29,7 +29,7 @@ in the same folder as the corresponding Jupyter notebooks.
  
 ## Literature Figures:
 
-Figures 2.1 and 2.2 were scanned from published papers as the data is no longer available for plotting new versions. Links to the papers on ADS are provided below:
+Figures 2.1 and 2.2 were scanned from published papers as the original data are unavailable to make new plots. Links to the papers on ADS are provided below:
  * Figure 2.1 - NaI absorption lines towards the LMC, from the bottom three panels of Figure 7 in [Molaro et al. 1993, A&A, 274, 505](http://ui.adsabs.harvard.edu/abs/1993A%26A...274..505M).
  * Figure 2.2 - UV Absorption lines, from Figure 2 in [Spitzer & Fitzpatrick 1993, ApJ, 409, 299](http://ui.adsabs.harvard.edu/abs/1993ApJ...409..299S)
  
