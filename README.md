@@ -1,6 +1,6 @@
 # Interstellar and Intergalactic Medium
 
-Jupyter notebooks and source files for the figures from Ryden &amp; Pogge, *Interstellar and Intergalactic Medium*.
+Jupyter notebooks and source files for the figures from Ryden &amp; Pogge, [*Interstellar and Intergalactic Medium*](https://www.cambridge.org/highereducation/books/interstellar-and-intergalactic-medium/A647BECF975E19E86F7F88F7BB103AA7)
 
 [!["ISM/IGM Cover"](Misc/ISMIGM_Cover_512.png?raw=true "Interstellar and Intergalactic Medium")](https://www.cambridge.org/highereducation/books/interstellar-and-intergalactic-medium/A647BECF975E19E86F7F88F7BB103AA7)
 
