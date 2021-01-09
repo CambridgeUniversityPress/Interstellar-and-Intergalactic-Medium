@@ -28,7 +28,7 @@ and new explorations rather than being frozen into print.
 All notebooks were developed in Python 3 using the [Anaconda Python distribution](www.anaconda.com).  
 Primary packages used are numpy, scipy, pandas, matplotlib, and astropy.
 
-Additional packages that are not part of the Anaconda distribution are:
+Additional packages we used for a few of the figures that are not part of the Anaconda distribution are:
 
  * HEALPix format FITS files require use of [healpy](https://github.com/healpy/healpy) (e.g., for all-sky map data).
 
