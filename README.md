@@ -4,7 +4,7 @@ Jupyter notebooks and source files for the figures from Ryden &amp; Pogge, *Inte
 
 [!["ISM/IGM Cover"](Misc/ISMIGM_Cover_512.png?raw=true "Interstellar and Intergalactic Medium")](https://www.cambridge.org/highereducation/books/interstellar-and-intergalactic-medium/A647BECF975E19E86F7F88F7BB103AA7)
 
-This repository is under construction and will be fully populated around the time the book appears in print in Spring of 2021.
+This repository is under construction and will be fully populated by the time the book appears in print in Spring 2021.
 
 ## Overview
 [*Interstellar and Intergalactic Medium*](https://www.cambridge.org/highereducation/books/interstellar-and-intergalactic-medium/A647BECF975E19E86F7F88F7BB103AA7)
