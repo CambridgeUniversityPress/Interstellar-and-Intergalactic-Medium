@@ -19,7 +19,7 @@ Figures 1.10-1.12 are all related and computed in one combined notebook named Fi
 ### Images:
 The grayscale images in Figures 1.4 through 1.8 were derived from original color images:
 <dl>
-  <dd>Figure 1.4 - Dark Nebula Barnard 68 0<a href="https://www.eso.org/public/images/eso0102a">VLT eso0102a</a>]
+  <dd>Figure 1.4 - Dark Nebula Barnard 68 [<a href="https://www.eso.org/public/images/eso0102a">VLT eso0102a</a>]
   <dd>Figure 1.5 - Orion Nebula [<a href="https://esahubble.org/images/heic0601a">HST heic0601a</a>]
   <dd>Figure 1.6 - Ring Nebula [<a href="https://esahubble.org/images/heic1310a">HST heic1310a</a>]
   <dd>Figure 1.7 - Crab Nebula [<a href="https://esahubble.org/images/heic0515a">HST heic0515a</a>]
