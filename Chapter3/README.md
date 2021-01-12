@@ -9,6 +9,7 @@ Figures from Chapter 3 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 3.2 - All-sky map of HI 21-cm column density
 <dd>Figure 3.4 - Spectral Energy Distribution of interstellar light near the Sun
 </dl>
+Note that Figure 3.1 is in the PowerPoint slide set and not provided here.
 
 ### Literature Data
 
