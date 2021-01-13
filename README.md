@@ -51,4 +51,4 @@ reference to the *Interstellar and Intergalactic Medium* and this repository.
 
 ### License Notice
 
-All files in this repository are covered under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/)
+All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/)
