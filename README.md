@@ -49,4 +49,6 @@ professional colleagues (always from published sources).  We ask that users pres
 from which such data were derived, and give proper credit when using them. If you use these notebooks, please make
 reference to the *Interstellar and Intergalactic Medium* and this repository.
 
-**License notice?**
+### License Notice
+
+All files in this repository are covered under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/)
