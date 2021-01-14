@@ -21,7 +21,7 @@ Figures 4.4 and 4.5 have accompanying data files that should be kept
 in the same folder as the corresponding Jupyter notebooks.
 
 ### Figure 4.4
-* HII_40K_cool.txt: CLOUDY model calculation of heating and cooling in an HII region around a 40,000K star. Data are in 3-column ASCII text format.
+* HII_40K_cool.txt: Cloudy model calculation of heating and cooling in an HII region around a 40,000K star. Data are in 3-column ASCII text format.
 
 ### Figure 4.5
  * m51_mods1.txt: Optical spectrum of an HII region in the Whirlpool Galaxy from [Croxall et al. 2014, ApJ, 808, 42](https://ui.adsabs.harvard.edu/abs/2015ApJ...808...42C). Data are in 3-column ASCII text format.
