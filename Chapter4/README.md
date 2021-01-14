@@ -26,6 +26,13 @@ in the same folder as the corresponding Jupyter notebooks.
 ### Figure 4.5
  * m51_mods1.txt: Optical spectrum of an HII region in the Whirlpool Galaxy from [Croxall et al. 2014, ApJ, 808, 42](https://ui.adsabs.harvard.edu/abs/2015ApJ...808...42C). Data are in 3-column ASCII text format.
 
+## Python Notes
+
+The notebook for Figure 4.8 uses PyNeb ([Luridiana, Morisset, & Shaw 2015](https://ui.adsabs.harvard.edu/abs/2015A%26A...573A..42L/abstract)), which must be installed
+before you can run the notebook.
+
+Source: [PyNeb Code at PyPl](https://pypi.org/project/PyNeb/)
+
 ## Revision History
 
 * v1.0 - 2021 Jan 13, first version in advance of publication [rwp/osu]
