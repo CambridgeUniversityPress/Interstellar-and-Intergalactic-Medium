@@ -42,12 +42,13 @@ can be very time-consuming as noted below.
 ### Figure 5.6:
  * ionFrac_Calc.ipynb: Jupyter notebook to use ChiantiPy and CHIANTI to compute and plot the ion fractions of carbon and oxygen in-situ rather than reading pre-calculated 
  data from external files.  This calculation is relatively fast.
- * ionFrac_Table.ipynb: uses ChiantiPy and CHIANTI to compute the ion fraction of a given species then export the data as an ASCII multi-column table. A version of this notebook was used to create the pre-computed data files for the Figure 5.6 notebook above.
+ * ionFrac_Table.ipynb: uses ChiantiPy and CHIANTI to compute the ion fraction of a given species then export the data as an ASCII multi-column table. 
+ A version of this notebook was used to create the pre-computed data files for the Figure 5.6 notebook above.
 
 ### Figure 5.7:
 * cieCooling.py: standalone python program to compute a cooling curve with ChiantiPy and CHIANTI for gas in CIE at a given density and metallicity.  Creates an ASCII multi-column
-table with the total cooling function and all of its components. The computation that created the solarCooling.txt file included above took about 2 hours on an 3.2GHz Core i5
-iMac.
+table with the total cooling function and all of its components. The computation that created the solarCooling.txt file included above took about 2 hours on a quad-core 3.2GHz
+Intel Core i5 iMac.
 
 ### Figure 5.8:
 * cieSpec_Calc.ipynb: Jupyter notebook to use ChiantiPy and CHIANTI to compute the X-ray spectrum of gas in CIE and 
@@ -57,5 +58,3 @@ create an output ASCII text file with the spectrum and its components. The calcu
 ## Revision History
 
 * v1.0 - 2021 Jan 16, first version in advance of publication [rwp/osu]
-
-
