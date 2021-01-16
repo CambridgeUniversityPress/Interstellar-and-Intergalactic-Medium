@@ -33,7 +33,19 @@ in the same folder as the corresponding Jupyter notebooks.
 
 ## CHIANTI database notebooks
 
-... data files derived from CHIANTI v9 and ChiantiPy calculations, scripts for doing those calculations ...
+Collisional ionization equilibrium (CIE) calculations for this book were performed using 
+[ChiantiPy](https://github.com/chianti-atomic/ChiantiPy/) and the [CHIANTI atomic database](https://www.chiantidatabase.org/). If you want to reproduce these
+calculations or go beyond the pre-calculated data sets for the notebooks above, we provide notebooks and standalone python scripts that show how we did this.
+Note that to use these you must have updated versions of both ChiantiPy and the CHIANTI database installed before using them, and that some of the calculations
+can be very time-consuming as noted below.
+
+### Figure 5.6 - ionFrac_Calc.ipynb
+ * ionFrac_Calc.ipynb: uses ChiantiPy and CHIANTI to compute and plot the ionization fractions of carbon and oxygen in-situ rather than reading pre-calculated 
+ data from external files.  This calculation is relatively fast.
+ 
+### Figure 5.8 - cieSpec_Calc.ipynb
+* cieSpec_Calc.ipynb: uses ChiantiPy and CHIANTI to compute the X-ray spectrum of gas in CIE and create an output ASCII text file with the spectrum and its components.
+The calculation time can be many minutes.
 
 
 ## Revision History
