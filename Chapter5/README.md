@@ -29,7 +29,7 @@ in the same folder as the corresponding Jupyter notebooks.
 * CIE_Spectrum.txt: X-ray spectrum of low-density solar-metallicity gas in CIE, 9-column ASCII text.
 
 ### Figure 5.9
-* sl2006_wd.txt: Locations of hot DA white dwarfs with OVI absorption-line detections or upper limits from [Savage & Lehner 2006, ApJS, 162, 134](https://ui.adsabs.harvard.edu/abs/2006ApJS..162..134S) Tables 1 and 3.  6-column ASCII text.
+* sl2006_wd.txt: Locations of hot DA white dwarfs with OVI absorption-line detections or upper limits from [Savage & Lehner 2006, ApJS, 162, 134](https://ui.adsabs.harvard.edu/abs/2006ApJS..162..134S), Tables 1 and 3.  6-column ASCII text.
 
 ## CHIANTI database notebooks
 
