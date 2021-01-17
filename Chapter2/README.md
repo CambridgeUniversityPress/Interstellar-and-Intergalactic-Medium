@@ -21,11 +21,11 @@ Figures 2.3 and 2.8 have accompanying data files that should be kept
 in the same folder as the corresponding Jupyter notebooks.
 
 ### Figure 2.3
- * HoII_MODS1_Spec.txt: Holmberg II HII region spectrum (ASCII 2-column)
+ * **HoII_MODS1_Spec.txt**: Holmberg II HII region spectrum from the Large Binocular Telescope MODS1 spectrograph, 2-column ASCII text.
  
 ### Figure 2.8
- * alphaCenA_LyA.txt: Alpha Cen A HST HRS UV spectrum (ASCII 2-column)
- * alphaCenB_LyA.txt: Alpha Cen B HST HRS UV spectrum (ASCII 2-column)
+ * **alphaCenA_LyA.txt**: Alpha Cen A HST HRS UV spectrum, 2-column ASCII text.
+ * **alphaCenB_LyA.txt**: Alpha Cen B HST HRS UV spectrum, 2-column ASCII text.
  
 ## Literature Figures:
 
