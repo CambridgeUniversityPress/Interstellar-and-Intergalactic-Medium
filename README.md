@@ -39,8 +39,9 @@ Additional packages we used for a few of the figures that are not part of the An
 
 Collisional Ionization Equilibrium calculations were performed using [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy/) and the 
 [CHIANTI Atomic Database](https://www.chiantidatabase.org/).  Because CHIANTI calculations are time-consuming, we include pre-calculated data sets
-with this package.  Those wishing to explore CIE beyond the parameters we chose for the illustrations in the book will need to install the 
-full CHIANTI database and the ChiantiPy package. **CHIANTI and ChiantiPy are not required to use these notebooks.**
+with the corresponding Jupyter notebooks.  Those wishing to explore CIE beyond the parameters we chose for the figures in the book will need to install the 
+full CHIANTI database and the ChiantiPy package. **CHIANTI and ChiantiPy are not required to use these notebooks.**  We've included the code we used
+to generate the pre-computed data files as worked examples of using CHIANTI and ChiantiPy.
 
 ## Use and Attribution
 
@@ -51,4 +52,5 @@ reference to the *Interstellar and Intergalactic Medium* and this repository.
 
 ### License Notice
 
-All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/)
+All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), to foster
+broader use of the notebooks and their data by teachers and students.
