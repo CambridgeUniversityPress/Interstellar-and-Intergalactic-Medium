@@ -18,7 +18,7 @@ Figure 3.3 is reproduced from the published literature (see below).
  * [HI4PI HI Column Density Map in FITS HEALPix format](https://lambda.gsfc.nasa.gov/product/foreground/fg_hi4pi_info.cfm), NHI_HPX.fits, is too large for GitHub (332Mb compressed, 604Mb uncompressed) so you will need retrieve it from the NASA GSFC LAMBDA database at the link provided.
 
 ### Figure 3.4
- * robitaille_DL07_PAHISMMix_8.5_0_0_Flux.fits, from [Porter et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...846...67P/abstract), using the model file for x,y,z=(8.5,0,0)kpc, using the [Robataille et al. 2012](https://ui.adsabs.harvard.edu/abs/2012A%26A...545A..39R/abstract) (R12) 3D radiative transfer dust and stellar model.  
+ * **robitaille_DL07_PAHISMMix_8.5_0_0_Flux.fits**, from [Porter et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...846...67P/abstract), using the model file for x,y,z=(8.5,0,0)kpc, using the [Robataille et al. 2012](https://ui.adsabs.harvard.edu/abs/2012A%26A...545A..39R/abstract) (R12) 3D radiative transfer dust and stellar model.  
 
 ## Literature Figures
 
