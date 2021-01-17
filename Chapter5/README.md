@@ -19,17 +19,17 @@ Figures 5.6 through 5.9 and have accompanying data files that should be stored
 in the same folder as the corresponding Jupyter notebooks.
 
 ### Figure 5.6
-* ionFrac_C.txt: Ion fractions of carbon vs. Temperature in CIE, 8-column ASCII text
-* ionFrac_O.txt: Ion fractions of oxygen vs. Temperature in CIE, 10-column ASCII text
+* **ionFrac_C.txt**: Ion fractions of carbon vs. Temperature in CIE, 8-column ASCII text
+* **ionFrac_O.txt**: Ion fractions of oxygen vs. Temperature in CIE, 10-column ASCII text
 
 ### Figure 5.7
-* solarCooling.txt: CIE cooling function for solar-metallicity gas, 16-column ASCII text.
+* **solarCooling.txt**: CIE cooling function for solar-metallicity gas, 16-column ASCII text.
 
 ### Figure 5.8
-* cieSpectrum.txt: X-ray spectrum of low-density solar-metallicity gas in CIE, 9-column ASCII text.
+* **cieSpectrum.txt**: X-ray spectrum of low-density solar-metallicity gas in CIE, 9-column ASCII text.
 
 ### Figure 5.9
-* sl2006_wd.txt: Locations of hot DA white dwarfs with OVI absorption-line detections or upper limits from [Savage & Lehner 2006, ApJS, 162, 134](https://ui.adsabs.harvard.edu/abs/2006ApJS..162..134S), Tables 1 and 3.  6-column ASCII text.
+* **sl2006_wd.txt**: Locations of hot DA white dwarfs with OVI absorption-line detections or upper limits from [Savage & Lehner 2006, ApJS, 162, 134](https://ui.adsabs.harvard.edu/abs/2006ApJS..162..134S), Tables 1 and 3.  6-column ASCII text.
 
 ## CHIANTI Atomic Database CIE calculations
 
@@ -40,18 +40,18 @@ Note that to use these you must have updated versions of both ChiantiPy and the 
 can be very time-consuming as noted below.
 
 ### Figure 5.6:
- * ionFrac_Calc.ipynb: Jupyter notebook to use ChiantiPy and CHIANTI to compute and plot the ion fractions of carbon and oxygen in-situ rather than reading pre-calculated 
+ * **ionFrac_Calc.ipynb**: Jupyter notebook to use ChiantiPy and CHIANTI to compute and plot the ion fractions of carbon and oxygen in-situ rather than reading pre-calculated 
  data from external files.  This calculation is relatively fast.
- * ionFrac_Table.ipynb: uses ChiantiPy and CHIANTI to compute the ion fraction of a given species then export the data as an ASCII multi-column table. 
+ * **ionFrac_Table.ipynb**: uses ChiantiPy and CHIANTI to compute the ion fraction of a given species then export the data as an ASCII multi-column table. 
  A version of this notebook was used to create the pre-computed data files for the Figure 5.6 notebook above.
 
 ### Figure 5.7:
-* cieCooling.py: standalone python program to compute a cooling curve with ChiantiPy and CHIANTI for gas in CIE at a given density and metallicity.  Creates an ASCII multi-column
+* **cieCooling.py**: Python script to compute a cooling curve with ChiantiPy and CHIANTI for gas in CIE at a given density and metallicity.  Creates an ASCII multi-column
 table with the total cooling function and all of its components. The computation that created the solarCooling.txt file included above took about 2 hours on a quad-core 3.2GHz
 Intel Core i5 iMac.
 
 ### Figure 5.8:
-* cieSpec_Calc.ipynb: Jupyter notebook to use ChiantiPy and CHIANTI to compute the X-ray spectrum of gas in CIE and 
+* **cieSpec_Calc.ipynb**: Jupyter notebook to use ChiantiPy and CHIANTI to compute the X-ray spectrum of gas in CIE and 
 create an output ASCII text file with the spectrum and its components. The calculation time can be many minutes.
 
 
