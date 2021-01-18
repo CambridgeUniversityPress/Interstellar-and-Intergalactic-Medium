@@ -15,8 +15,9 @@ Figures from Chapter 5 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 
 ## Data Files:
 
-Figures 5.6 through 5.9 and have accompanying data files that should be stored 
-in the same folder as the corresponding Jupyter notebooks.
+Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same
+folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
+and all data files have explanatory comment headers.
 
 ### Figure 5.6
 * **ionFrac_C.txt**: Ion fractions of carbon vs. Temperature in CIE, 8-column ASCII text
