@@ -42,4 +42,4 @@ Figure 1 middle panel.
 
 ## Revision History
 
-* v1.0 - 2021 Jan 17, first version in advance of publication [rwp/osu]
+* 2021 Jan 17, first version in advance of publication [rwp/osu]
