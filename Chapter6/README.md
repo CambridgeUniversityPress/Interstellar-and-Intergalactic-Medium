@@ -69,8 +69,12 @@ spectrum of the diffuse ISM at high galactic latitudes. Data provided by Aigen L
 ## Literature Figures:
 
 Figures 6.11 and 6.12 were scanned from published papers as the original data are unavailable to make new plots. Links to the papers on ADS are provided below:
- * Figure 6.11 - Continuum-subtracted spectra of oxygen-rich Mira variable stars from [Speck et al. 2000, A&AS, 146, 437](https://ui.adsabs.harvard.edu/abs/2000A%26AS..146..437S),   Figure 4 top row of panels.
- * Figure 6.12 - Spectrum of the carbon-rich Mira variable R Fornacis from [Groenewegen et al. 1998, MNRAS, 293, 18](http://ui.adsabs.harvard.edu/abs/1998MNRAS.293...18G), Figure 3, bottom panel.
+
+### Figure 6.11
+Continuum-subtracted spectra of oxygen-rich Mira variable stars from [Speck et al. 2000, A&AS, 146, 437](https://ui.adsabs.harvard.edu/abs/2000A%26AS..146..437S),   Figure 4 top row of panels.
+
+### Figure 6.12
+Spectrum of the carbon-rich Mira variable R Fornacis from [Groenewegen et al. 1998, MNRAS, 293, 18](http://ui.adsabs.harvard.edu/abs/1998MNRAS.293...18G), Figure 3, bottom panel.
  
 ## Revision History
 
