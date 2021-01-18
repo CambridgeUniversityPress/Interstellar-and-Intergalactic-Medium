@@ -12,7 +12,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 6.5 - Efficiency factor Q_ext for two values of the real index of refraction
 <dd>Figure 6.6 - Reflectance spectra of olivine, pyroxene, and carbon
 <dd>Figure 6.7 - Infrared spectrum of embedded young stellar object RAFGL7009S (IRAS 18316-0602)
-<dd>Figure 6.8 - 
+<dd>Figure 6.8 - Emission from interstellar dust grains (total and by component)
 <dd>Figure 6.10 - 
 </dl>
 
@@ -58,10 +58,16 @@ Infrared spectrum of RAFGL7009S (IRAS 18316-0602), a young stellar object embedd
 Adwin Boogert (U. Hawaii).
  * **GL7009S_ISO.txt** - ISO SWS/LWS infrared flux spectrum of RAFGL7009S, 2-column ASCII text
 
-### Figure 6.x
-data for somehting
- * **filename** - description 
-
+### Figure 6.8
+[Li & Draine 2001, ApJ, 554, 778](https://ui.adsabs.harvard.edu/abs/2001ApJ...554..778L/abstract) model infrared
+spectrum of the diffuse ISM at high galactic latitudes. Data provided by Aigen Li, University of Missouri.
+ * **LD01_Gra_15c_isrf1.txt** - big graphitic grains, 3-column ASCII text
+ * **LD01_PAH_50A_1_e2_isrf1.txt** - small graphitic/PAH grains, 3-column ASCII text
+ * **LD01_Si_15c_isrf1.txt** - big silicate grains, 3-column ASCII text
+ * **LD01_vsSi_15c_isrf1.txt** - small silicate grains, 3-column ASCII text
+ 
+ ### Figure 6.x
+ 
 
 ## Revision History
 
