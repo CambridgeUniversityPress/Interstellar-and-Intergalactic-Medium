@@ -2,9 +2,7 @@
 
 Figures from Chapter 9 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
 <dd>Figure 9.1 - Spectra of the quasars 3C 273 and Q1422+2309
 <dd>Figure 9.2 - Spectra of two quasars at z=5.774 and z=6.016
@@ -25,6 +23,6 @@ and all data files have explanatory comment headers.
 
 ## Revision History
 
-* v1.0 - 2021 Jan 18, first version in advance of publication [rwp/osu]
+* 2021 Jan 18, first version in advance of publication [rwp/osu]
 
 
