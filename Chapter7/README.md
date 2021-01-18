@@ -39,7 +39,7 @@ in HEALPix format, plotting the CO(1-0) amplitude posterior maximum in units K/k
 ## Literature Figures:
 
 ### Figure 7.2
-<sup>13</sup>CO and <sup>12</sup>CO emission lines in starburst galaxy M82 from [Paglionie et al. 2001, ApJS, 135, 183](http://ui.adsabs.harvard.edu/abs/2001ApJS..135..183P), 
+<sup>13</sup>CO and <sup>12</sup>CO emission lines in the galaxy M82 from [Paglionie et al. 2001, ApJS, 135, 183](http://ui.adsabs.harvard.edu/abs/2001ApJS..135..183P), 
 Figure 1 middle panel.
 
 ## Revision History
