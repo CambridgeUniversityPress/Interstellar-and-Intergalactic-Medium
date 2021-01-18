@@ -22,23 +22,22 @@ edition of the 1899 *Astrophysical Journal*, Volume 9.
 [Barnard, E.E., 1899, ApJ, 9, 157, Plate II](https://ui.adsabs.harvard.edu/abs/1899ApJ.....9..157B)
 <dl>
   <dd>Figure 6.1: <b>Fig6_1_Barnard1899_PlateII.jpg</b> - Barnard's 1899 photograph of the Milky way near the star Theta Ophiuchi.  Rotated 90-degrees
-  relative to the original for the book.
+  relative to the original for this book.
 </dl>
 
 ## Data Files:
 
-The Jupyter notebooks above have accompanying data files that should be stored 
-in the same folder as the corresponding Jupyter notebooks.
+Some of the Jupyter notebooks above have accompanying data files that should be stored in the same folder the notebooks.
 
 ### Figure 6.2
-Data for luminosity and angular-diameter distances for 100 open star clusters from 
+Luminosity and angular-diameter distances for 100 open star clusters from 
 [Trumpler, R. 1930, Lick Observatory Bulletin #420, 14, 154](https://ui.adsabs.harvard.edu/abs/1930LicOB..14..154T), Table 3.  See the 
 Jupyter notebook for what data were used. 
  * **Trumpler_GoodData.txt** - good open cluster distances, 2-column ASCII text
  * **Trumpler_BadData.text** - less-certain open cluster distances, 2-column ASCII text
 
 ### Figure 6.4
-Data from [Green 2008, Solar Energy Materials and Solar Cells, 92, 1305](https://www.sciencedirect.com/science/article/pii/S0927024808002158), Table 1, intrinsic silicon at 300K.
+[Green 2008, Solar Energy Materials and Solar Cells, 92, 1305](https://www.sciencedirect.com/science/article/pii/S0927024808002158), Table 1, intrinsic silicon at 300K.
  * **Green2008_Si300K.txt** - wavelength-dependent real and imaginary index of refraction, 4-column ASCII text.
  
 ### Figure 6.6
