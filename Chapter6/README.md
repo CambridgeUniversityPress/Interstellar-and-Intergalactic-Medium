@@ -7,7 +7,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 ### Jupyter Notebooks:
 <dl>
 <dd>Figure 6.2 - Replotting of Trumpler's 1930 Angular-diameter distance versus luminosity distance for 100 open clusters.
-<dd>Figure 6.3 - 
+<dd>Figure 6.3 - Clayton, Cardelli, and Mathis (1989) interstellar extinction curve
 <dd>Figure 6.4 - 
 <dd>Figure 6.5 - 
 <dd>Figure 6.6 - 
