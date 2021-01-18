@@ -1,0 +1,25 @@
+#
+# Molecular Hydrogen electronic ground state vibrational levels
+#
+# Source: Sharp 1971, Atomic Data, 2, 119
+#
+# v - vibrational quantum number
+# eV - potential energy in electron volts
+# Rmin = minimum interproton distance in Angstroms
+# Rmax = maximum interproton distance in Angstroms
+#
+v      eV    Rmin   Rmax
+0    0.0000 0.6333 0.8824
+1    0.5159 0.5706 1.0132
+2    1.0025 0.5345 1.1199
+3    1.4606 0.5087 1.2191
+4    1.8906 0.4886 1.3157
+5    2.2925 0.4726 1.4130
+6    2.6662 0.4594 1.5128
+7    3.0112 0.4485 1.6174
+8    3.3266 0.4392 1.7293
+9    3.6109 0.4315 1.8522
+10   3.8622 0.4250 1.9917
+11   4.0774 0.4197 2.1576
+12   4.2530 0.4160 2.3693
+13   4.3831 0.4128 2.6768

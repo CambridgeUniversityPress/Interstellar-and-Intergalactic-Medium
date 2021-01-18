@@ -1,0 +1,25 @@
+#
+# Molecular Hydrogen second electronic state vibrational levels
+#
+# Source: Sharp 1971, Atomic Data, 2, 119
+#
+# v - vibrational quantum number
+# eV - potential energy in electron volts
+# Rmin = minimum interproton distance in Angstroms
+# Rmax = maximum interproton distance in Angstroms
+#
+v  eV     Rmin   Rmax
+ 0 12.2860 0.8873 1.2216
+ 1 12.5722 0.8024 1.3967
+ 2 12.8417 0.7524 1.5392
+ 3 13.0950 0.7177 1.6731
+ 4 13.3320 0.6912 1.8049
+ 5 13.5531 0.6698 1.9369
+ 6 13.7582 0.6528 2.0738
+ 7 13.9469 0.6386 2.2176
+ 8 14.1189 0.6262 2.3710
+ 9 14.2730 0.6149 2.5410
+10 14.4078 0.6059 2.7372
+11 14.5216 0.5994 2.9768
+12 14.6113 0.5953 3.2988
+13 14.6719 0.5910 3.8257
