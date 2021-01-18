@@ -13,7 +13,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 6.6 - Reflectance spectra of olivine, pyroxene, and carbon
 <dd>Figure 6.7 - Infrared spectrum of embedded young stellar object RAFGL7009S (IRAS 18316-0602)
 <dd>Figure 6.8 - Emission from interstellar dust grains (total and by component)
-<dd>Figure 6.10 - 
+<dd>Figure 6.10 - Weingartner and Draine (2001) grain size distribution
 </dl>
 
 ### Images
@@ -65,9 +65,6 @@ spectrum of the diffuse ISM at high galactic latitudes. Data provided by Aigen L
  * **LD01_PAH_50A_1_e2_isrf1.txt** - small graphitic/PAH grains, 3-column ASCII text
  * **LD01_Si_15c_isrf1.txt** - big silicate grains, 3-column ASCII text
  * **LD01_vsSi_15c_isrf1.txt** - small silicate grains, 3-column ASCII text
- 
- ### Figure 6.x
- 
 
 ## Revision History
 
