@@ -2,9 +2,7 @@
 
 Figures from Chapter 2 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
   <dd>Figure 2.3 - HII region spectrum (Holmberg II)
   <dd>Figure 2.4 - Gaussian & Lorentzian profiles
@@ -40,4 +38,4 @@ UV Absorption lines, from Figure 2 in [Spitzer & Fitzpatrick 1993, ApJ, 409, 299
  
 ## Revision History
 
- * v1.0 - 2021 Jan 9, first version in advance of publication [rwp/osu]
+ * 2021 Jan 18, first version in advance of publication [rwp/osu]
