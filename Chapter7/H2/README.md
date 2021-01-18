@@ -10,21 +10,23 @@ This folder should reside in the same folder as the Jupyter notebooks for Chapte
 
 We provide copies of the data for the ground state and first two excited electronic states
 of H<sub>2</sub>:
- * $^{1}\Sigma_{g}^{+}$ ground state
- * $^{1}\Sigma_{u}^{+}$ first electronic state (Lyman bands)
- * $^{1}\Pi_{u}^{+}$ second electronic state (Werner bands)
+<dl>
+ <dd>H2_1Sigma_g+_potl.dat and H2_1Sigma_g+_v.dat: $^{1}\Sigma_{g}^{+}$ ground state
+ <dd>H2_1Sigma_u+_potl.dat and H2_1Sigma_u+_v.dat: $^{1}\Sigma_{u}^{+}$ first electronic state (Lyman bands)
+ <dd>H2_1Pi_u_potl.dat and H2_1Pi_u_v.dat: $^{1}\Pi_{u}^{+}$ second electronic state (Werner bands)
  
-For each level, there are two files:
+For each state, there are two multi-column ASCII text files, as follows::
 
-Potential curve: _potl.dat:
+Potential curve: potl.dat:
  * interproton distance, r, in Angstroms
  * potential energy, V(r), in eV
  
-Vibrational levels: _v.dat:
+Vibrational levels: v.dat:
  * v = vibrational quantum number
  * eV = energy in eV
- * Rmin = minimum inter-proton distance in Angstroms
- * Rmax = maximum inter-proton distance in Angstroms
+ * Rmin = minimum interproton distance in Angstroms
+ * Rmax = maximum interproton distance in Angstroms
+ 
 ## Revision History
 
 * v1.0 - 2021 Jan 8, first version in advance of publication [rwp/osu]
