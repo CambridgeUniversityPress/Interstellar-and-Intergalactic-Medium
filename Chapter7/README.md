@@ -2,9 +2,7 @@
 
 Figures from Chapter 7 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
   <dd>Figure 7.1 - Molecular Hydrogen ground state energy level diagram
   <dd>Figure 7.3 - All-sky map of the integrated line intensity of the CO J=1-0 transition
