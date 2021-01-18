@@ -11,9 +11,9 @@ This folder should reside in the same folder as the Jupyter notebooks for Chapte
 We provide copies of the data for the ground state and first two excited electronic states
 of H<sub>2</sub>:
 <dl>
- <dd>H2_1Sigma_g+_potl.dat and H2_1Sigma_g+_v.dat: $^{1}\Sigma_{g}^{+}$ ground state
- <dd>H2_1Sigma_u+_potl.dat and H2_1Sigma_u+_v.dat: $^{1}\Sigma_{u}^{+}$ first electronic state (Lyman bands)
- <dd>H2_1Pi_u_potl.dat and H2_1Pi_u_v.dat: $^{1}\Pi_{u}^{+}$ second electronic state (Werner bands)
+ <dd>H2_1Sigma_g+_potl.dat and H2_1Sigma_g+_v.dat: electronics ground state
+ <dd>H2_1Sigma_u+_potl.dat and H2_1Sigma_u+_v.dat: first electronic state (Lyman bands)
+ <dd>H2_1Pi_u_potl.dat and H2_1Pi_u_v.dat: second electronic state (Werner bands)
  
 For each state, there are two multi-column ASCII text files, as follows::
 
