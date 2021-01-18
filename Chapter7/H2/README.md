@@ -17,7 +17,7 @@ of H<sub>2</sub>:
  
 For each state, there are two multi-column ASCII text files, as follows::
 
-Potential curve: potl.dat:
+Potential energy curves: potl.dat:
  * interproton distance, r, in Angstroms
  * potential energy, V(r), in eV
  
