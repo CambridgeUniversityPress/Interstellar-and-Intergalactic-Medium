@@ -9,7 +9,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 6.2 - Replotting of Trumpler's 1930 Angular-diameter distance versus luminosity distance for 100 open clusters.
 <dd>Figure 6.3 - Clayton, Cardelli, and Mathis (1989) interstellar extinction curve
 <dd>Figure 6.4 - Real and imaginary indices of refraction of silicon at T=300K
-<dd>Figure 6.5 - 
+<dd>Figure 6.5 - Efficiency factor Q_ext for two values of the real index of refraction
 <dd>Figure 6.6 - 
 <dd>Figure 6.7 - 
 <dd>Figure 6.8 - 
