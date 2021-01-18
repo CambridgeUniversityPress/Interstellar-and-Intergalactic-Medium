@@ -13,9 +13,9 @@ Figures from Chapter 7 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 
 ## Data Files:
 
-Figures 7.1 and 7.5 use files with the H<sub>2</sub> potential curves and vibrational
+Figures 7.1 and 7.5 use external files with molecular hydrogen potential curves and vibrational
 energy levels tabulated by [Sharp, 1971, Atomic Data, 2, 119](https://ui.adsabs.harvard.edu/abs/1971AD......2..119S)
-for the ground and first two excited electronic states.  These are all in the **H2** subfolder that accompanies these
+for the ground and first two excited electronic states.  These files are in the **H2** subfolder that accompanies these
 notebooks.
 
 ### Figures 7.1 and 7.5:
