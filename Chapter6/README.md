@@ -21,7 +21,8 @@ The grayscale image in Figure 6.1 was scanned by the authors from the plate in a
 edition of the 1899 *Astrophysical Journal*, Volume 9. 
 [Barnard, E.E., 1899, ApJ, 9, 157, Plate II](https://ui.adsabs.harvard.edu/abs/1899ApJ.....9..157B)
 <dl>
-<dd>Figure 6.1 - Barnard's 1899 photograph of the Milky way near the star Theta Ophiuchi
+<dd>Figure 6.1: **Fig6_1_Barnard1899_PlatesII.jpg** - Barnard's 1899 photograph of the Milky way near the star Theta Ophiuchi.  Rotated 90-degrees
+  relative to the original for the book.
 </dl>
 
 ## Data Files:
