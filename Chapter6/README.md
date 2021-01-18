@@ -34,12 +34,12 @@ in the same folder as the corresponding Jupyter notebooks.
 Data for luminosity and angular-diameter distances for 100 open star clusters from 
 [Trumpler, R. 1930, Lick Observatory Bulletin #420, 14, 154](https://ui.adsabs.harvard.edu/abs/1930LicOB..14..154T), Table 3.  See the 
 Jupyter notebook for what data were used. 
- * Trumpler_GoodData.txt - high quality data
- * Trumpler_BadData.text - less-certain data
+ * Trumpler_GoodData.txt - high quality data, 2-column ASCII text
+ * Trumpler_BadData.text - less-certain data, 2-column ASCII text
 
 ### Figure 6.4
 Data from [Green 2008, Solar Energy Materials and Solar Cells, 92, 1305](https://www.sciencedirect.com/science/article/pii/S0927024808002158), Table 1, intrinsic silicon at 300K.
- * Green2008_Si300K.txt
+ * Green2008_Si300K.txt - wavelength-dependent real and imaginary index of refraction, 4-column ASCII text.
  
 ### Figure 6.x
 Data from
