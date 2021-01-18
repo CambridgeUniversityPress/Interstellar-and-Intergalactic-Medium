@@ -1,4 +1,4 @@
-# Molecular Hydrogen electronic states
+# Molecular Hydrogen Electronic State Data
 
 Copies of the moleular hydrogen (H<sub>2</sub>) potential curves and vibrational energy levels tabulated by
 [Sharp, 1971, Atomic Data, 2, 119](https://ui.adsabs.harvard.edu/abs/1971AD......2..119S), used by figures
