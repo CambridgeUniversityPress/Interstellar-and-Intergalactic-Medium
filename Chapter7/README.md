@@ -36,6 +36,12 @@ stored in the same folder as the corresponding Jupyter notebook and uncompressed
 * [ESA Planck 2015 COMMANDER version](https://wiki.cosmos.esa.int/planckpla2015/index.php/CMB_and_astrophysical_component_maps#CO_line_emission) 
 in HEALPix format, plotting the CO(1-0) amplitude posterior maximum in units K/km/sec. Source: [ESA Planck Legacy Archive](https://wiki.cosmos.esa.int/planck-legacy-archive)
 
+## Literature Figures:
+
+### Figure 7.2
+<sup>13</sup>CO and <sup>12</sup>CO emission lines in starburst galaxy M82 from [Paglionie et al. 2001, ApJS, 135, 183](http://ui.adsabs.harvard.edu/abs/2001ApJS..135..183P), 
+Figure 1 middle panel.
+
 ## Revision History
 
 * v1.0 - 2021 Jan 17, first version in advance of publication [rwp/osu]
