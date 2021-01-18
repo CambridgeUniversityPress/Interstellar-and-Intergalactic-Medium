@@ -2,9 +2,7 @@
 
 Figures from Chapter 4 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
 <dd>Figure 4.1 - Photoionization cross-sections of H and He
 <dd>Figure 4.2 - Radius of a Stromgren sphere
@@ -36,4 +34,4 @@ Source: [PyNeb Code at PyPl](https://pypi.org/project/PyNeb/)
 
 ## Revision History
 
-* v1.0 - 2021 Jan 14, first version in advance of publication [rwp/osu]
+* 2021 Jan 14, first version in advance of publication [rwp/osu]
