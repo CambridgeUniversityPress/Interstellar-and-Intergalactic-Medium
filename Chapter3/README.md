@@ -2,9 +2,7 @@
 
 Figures from Chapter 3 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
 <dd>Figure 3.2 - All-sky map of HI 21-cm column density
 <dd>Figure 3.4 - Spectral Energy Distribution of interstellar light near the Sun
@@ -28,4 +26,4 @@ Reproduced from the upper right panel of Figure 12 in [Dickey et al. 1983, ApJS,
 
 ## Revision History
 
-* v1.0 - 2021 Jan 11, first version in advance of publication [rwp/osu]
+* 2021 Jan 11, first version in advance of publication [rwp/osu]
