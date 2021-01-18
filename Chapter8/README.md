@@ -12,12 +12,16 @@ Figures from Chapter 8 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 8.6 - NuSTAR spectrum of the central 12 × 12 arcmin region of the Coma Cluster
 </dl>
 
-### Images
+## Images
 The grayscale images in Figures 8.4 and 8.5 were derived from original color images:
-<dl>
-<dd>Figure 8.4 - M82 Spitzer and Chandra
-<dd>Figure 8.5 - Coma Cluster SDSS and Chandra
-</dl>
+
+### Figure 8.4
+
+M82 Spitzer and Chandra
+
+### Figure 8.5
+
+Coma Cluster SDSS and Chandra
 
 ## Data Files:
 
