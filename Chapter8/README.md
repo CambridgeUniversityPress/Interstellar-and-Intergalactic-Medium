@@ -2,26 +2,13 @@
 
 Figures from Chapter 8 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
 <dd>Figure 8.1 - All-sky map of HI column density for Milky Way high-velocity clouds
 <dd>Figure 8.2 - XMM-Newton X-ray spectrum of the quasar 1ES 1553+113
 <dd>Figure 8.3 - XMM-Newton X-ray spectrum looking through our galaxy’s CGM
 <dd>Figure 8.6 - NuSTAR spectrum of the central 12 × 12 arcmin region of the Coma Cluster
 </dl>
-
-## Images
-The grayscale images in Figures 8.4 and 8.5 were derived from original color images:
-
-### Figure 8.4
-
-M82 Spitzer and Chandra
-
-### Figure 8.5
-
-Coma Cluster SDSS and Chandra
 
 ## Data Files:
 
@@ -42,8 +29,20 @@ Data set for Figures 8.1 is too large for GitHub, so we provide links to the onl
 stored in the same folder as the corresponding Jupyter notebooks and uncompressed.
 
 ### Figure 8.1 - All-Sky HI 21-cm ...
-* [Composite all-sky H-alpha (Finkbeiner) map in FITS HEALPix format](https://lambda.gsfc.nasa.gov/product/foreground/fg_halpha_map.cfm) at the NASA GSFC [LAMBDA](https://lambda.gsfc.nasa.gov) database.
+* [Composite all-sky H-alpha (Finkbeiner) map in FITS HEALPix format](https://lambda.gsfc.nasa.gov/product/foreground/fg_halpha_map.cfm) at the NASA GSFC 
+[LAMBDA](https://lambda.gsfc.nasa.gov) database.
+
+## Images
+The grayscale images in Figures 8.4 and 8.5 were derived from original color images:
+
+### Figure 8.4 - M82
+
+M82 Spitzer and Chandra
+
+### Figure 8.5 - Coma Cluster
+
+Coma Cluster SDSS and Chandra
 
 ## Revision History
 
-* v1.0 - 2021 Jan 18, first version in advance of publication [rwp/osu]
+* 2021 Jan 18, first version in advance of publication [rwp/osu]
