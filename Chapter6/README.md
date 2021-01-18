@@ -27,8 +27,8 @@ edition of the 1899 *Astrophysical Journal*, Volume 9.
 
 ## Data Files:
 
-Some of the Jupyter notebooks above have accompanying data files that should be stored in the same folder the notebooks.  In all
-cases the individual notebooks usually explain the data used from each, and all data files have explanatory comment headers.
+Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same folder as the notebooks.  In all
+cases the individual notebooks describe the contents of the data files, and all data files have explanatory comment headers.
 
 ### Figure 6.2
 Luminosity and angular-diameter distances for 100 open star clusters from 
