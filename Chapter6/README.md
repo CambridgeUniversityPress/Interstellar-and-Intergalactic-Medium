@@ -8,7 +8,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dl>
 <dd>Figure 6.2 - Replotting of Trumpler's 1930 Angular-diameter distance versus luminosity distance for 100 open clusters.
 <dd>Figure 6.3 - Clayton, Cardelli, and Mathis (1989) interstellar extinction curve
-<dd>Figure 6.4 - 
+<dd>Figure 6.4 - Real and imaginary indices of refraction of Silicon
 <dd>Figure 6.5 - 
 <dd>Figure 6.6 - 
 <dd>Figure 6.7 - 
@@ -37,7 +37,14 @@ Jupyter notebook for what data were used.
  * Trumpler_GoodData.txt - high quality data
  * Trumpler_BadData.text - less-certain data
 
+### Figure 6.4
+Data from [Green 2008, Solar Energy Materials and Solar Cells, 92, 1305](https://www.sciencedirect.com/science/article/pii/S0927024808002158), Table 1, intrinsic silicon at 300K.
+ * Green2008_Si300K.txt
+ 
 ### Figure 6.x
+Data from
+ * 
+
 
 ## Revision History
 
