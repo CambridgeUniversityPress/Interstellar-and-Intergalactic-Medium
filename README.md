@@ -44,6 +44,10 @@ with the corresponding Jupyter notebooks.  Those wishing to explore CIE beyond t
 full CHIANTI database and the ChiantiPy package. **CHIANTI and ChiantiPy are not required to use these notebooks.**  We've included the code we used
 to generate the pre-computed data files as worked examples of using CHIANTI and ChiantiPy.
 
+## Download, Install, and Updates
+
+*coming soon, after we test the instructions ourselves*
+
 ## Use and Attribution
 
 The notebooks and their contents are original works of the authors and often include data obtained from public archives or from 
