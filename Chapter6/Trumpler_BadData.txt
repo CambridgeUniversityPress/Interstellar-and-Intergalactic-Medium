@@ -1,0 +1,37 @@
+#
+# Open Star Cluster luminosity and angular-diameter distances
+# 
+# Source: Trumpler, 1930, Lick Obs Bulletin, #420, 14, 154
+#         Table 3
+#
+# "Bad" data, which are clusters with less certain data flagged
+# by Trumpler by being printed in italics in Table 3.
+#
+# dL = observed [luminosity] distance in kiloparsecs (Table 3, column 8)
+# dA = angular diameter distance in kiloparsecs (Table 3, column 10)
+#
+dL      dA
+0.60    0.65
+0.73    0.83
+0.53    0.74
+0.63    0.69
+0.63    0.86
+0.76    0.69
+0.66    1.47
+0.73    0.84
+0.55    0.69
+2.2     2.06
+1.05    1.26
+0.60    1.26
+0.58    1.06
+0.73    1.08
+0.80    1.06
+0.80    0.84
+0.96    0.94
+1.40    1.25
+1.0     1.30
+0.66    0.70
+2.5     1.67
+0.96    1.46
+2.20    1.09
+0.76    0.65
