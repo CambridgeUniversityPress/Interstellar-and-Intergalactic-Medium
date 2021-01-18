@@ -10,7 +10,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 6.3 - Clayton, Cardelli, and Mathis (1989) interstellar extinction curve
 <dd>Figure 6.4 - Real and imaginary indices of refraction of silicon at T=300K
 <dd>Figure 6.5 - Efficiency factor Q_ext for two values of the real index of refraction
-<dd>Figure 6.6 - 
+<dd>Figure 6.6 - Reflectance spectra of olivine, pyroxene, and carbon
 <dd>Figure 6.7 - 
 <dd>Figure 6.8 - 
 <dd>Figure 6.10 - 
@@ -41,10 +41,15 @@ Jupyter notebook for what data were used.
 Data from [Green 2008, Solar Energy Materials and Solar Cells, 92, 1305](https://www.sciencedirect.com/science/article/pii/S0927024808002158), Table 1, intrinsic silicon at 300K.
  * **Green2008_Si300K.txt** - wavelength-dependent real and imaginary index of refraction, 4-column ASCII text.
  
-### Figure 6.x
-Data from
- * 
-
+### Figure 6.6
+Reflectance spectra of olivine, pyroxene, and carbon at visible and near-infrared wavelengths from
+the [USGS Spectral Library (splib07a)](https://crustal.usgs.gov/speclab/QueryAll07a.php), 
+[Kokaly, R.F., et al. 2017, U.S. Geological Survey Data Series 1035, 61 p., https://doi.org/10.3133/ds1035](https://pubs.er.usgs.gov/publication/ds1035).
+We've consolidated the data for these materials into single ASCII text files for convenience:
+ * **Olivine_GDS80a.txt** - olivine optical/near-IR reflectance spectrum, 3-column ASCII text
+ * **Bronzite_HS9.3b.txt** - pyroxene (bronzite) optical/near-IR reflectance spectrum, 3-column ASCII text
+ * **Carbon_Black_GDS68.txt** - carbon optical/near-IR reflectance spectrum, 3-column ASCII text
+See the Jupyter notebook and individual file headers for detailed provenance information for each data set.
 
 ## Revision History
 
