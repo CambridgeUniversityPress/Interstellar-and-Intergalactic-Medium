@@ -56,7 +56,7 @@ See the Jupyter notebook and the individual file headers for detailed provenance
 Infrared spectrum of RAFGL7009S (IRAS 18316-0602), a young stellar object embedded behind ~40 magnitudes of dust extinction at optical wavelengths from 
 [Dartois et al. 1998, A&A, 338, 21](https://ui.adsabs.harvard.edu/abs/1998A%26A...338L..21D).  Data are ISO archival SWS/LWS spectral data provided by 
 Adwin Boogert (U. Hawaii).
- * **GL7009S_ISO.txt** - spectrum of RAFGL7009S, 2-column ASCII text
+ * **GL7009S_ISO.txt** - ISO SWS/LWS infrared flux spectrum of RAFGL7009S, 2-column ASCII text
 
 ### Figure 6.x
 data for somehting
