@@ -2,9 +2,7 @@
 
 Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
 <dd>Figure 6.2 - Replotting of Trumpler's 1930 Angular-diameter distance versus luminosity distance for 100 open clusters.
 <dd>Figure 6.3 - Clayton, Cardelli, and Mathis (1989) interstellar extinction curve
@@ -14,15 +12,6 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 6.7 - Infrared spectrum of embedded young stellar object RAFGL7009S (IRAS 18316-0602)
 <dd>Figure 6.8 - Emission from interstellar dust grains (total and by component)
 <dd>Figure 6.10 - Weingartner and Draine (2001) grain size distribution
-</dl>
-
-### Images
-The grayscale image in Figure 6.1 was scanned by the authors from the plate in an original bound
-edition of the 1899 *Astrophysical Journal*, Volume 9. 
-[Barnard, E.E., 1899, ApJ, 9, 157, Plate II](https://ui.adsabs.harvard.edu/abs/1899ApJ.....9..157B)
-<dl>
-  <dd>Figure 6.1: <b>Fig6_1_Barnard1899_PlateII.jpg</b> - Barnard's 1899 photograph of the Milky way near the star Theta Ophiuchi.  Rotated 90-degrees
-  relative to the original for this book.
 </dl>
 
 ## Data Files:
@@ -66,6 +55,13 @@ spectrum of the diffuse ISM at high galactic latitudes. Data provided by Aigen L
  * **LD01_Si_15c_isrf1.txt** - big silicate grains, 3-column ASCII text
  * **LD01_vsSi_15c_isrf1.txt** - small silicate grains, 3-column ASCII text
 
+## Images
+
+### Figure 6.1 - Theta Ophiuchi
+Barnard's 1899 photograph of the Milky way near the star Theta Ophiuchi from [Barnard, E.E., 1899, ApJ, 9, 157, Plate II](https://ui.adsabs.harvard.edu/abs/1899ApJ.....9..157B),
+Plate II. The grayscale image in Figure 6.1 was scanned by the authors from the plate in an original bound edition of the 1899 *Astrophysical Journal*, Volume 9. It is
+rotated by 90-degrees relative to the original for this book because it fit better in that orientation.
+
 ## Literature Figures:
 
 Figures 6.11 and 6.12 were scanned from published papers as the original data are unavailable to make new plots. Links to the papers on ADS are provided below:
@@ -78,4 +74,4 @@ Spectrum of the carbon-rich Mira variable R Fornacis from [Groenewegen et al. 19
  
 ## Revision History
 
-* v1.0 - 2021 Jan 17, first version in advance of publication [rwp/osu]
+* 2021 Jan 17, first version in advance of publication [rwp/osu]
