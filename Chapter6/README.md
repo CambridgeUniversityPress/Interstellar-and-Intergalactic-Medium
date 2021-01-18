@@ -6,7 +6,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 
 ### Jupyter Notebooks:
 <dl>
-<dd>Figure 6.2 - 
+<dd>Figure 6.2 - Replotting of Trumpler's 1930 Angular-diameter distance versus luminosity distance for 100 open clusters.
 <dd>Figure 6.3 - 
 <dd>Figure 6.4 - 
 <dd>Figure 6.5 - 
@@ -30,8 +30,13 @@ The Jupyter notebooks above have accompanying data files that should be stored
 in the same folder as the corresponding Jupyter notebooks.
 
 ### Figure 6.2
-Data for Tables 1 and 2 
-* 
+Data for luminosity and angular-diameter distances for 100 open star clusters from 
+[Trumpler, R. 1930, Lick Observatory Bulletin #420, 14, 154](https://ui.adsabs.harvard.edu/abs/1930LicOB..14..154T), Table 3.  See the 
+Jupyter notebook for what data were used. 
+ * Trumpler_GoodData.txt - high quality data
+ * Trumpler_BadData.text - less-certain data
+
+### Figure 6.x
 
 ## Revision History
 
