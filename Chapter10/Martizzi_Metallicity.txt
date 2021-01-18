@@ -1,0 +1,16 @@
+#
+# Metallicity of gas phases, as a fraction of solar
+# Data provided by Davide Martizzi
+#
+# WHIM: 10^7 K < T < 10^8 K, n < 10^-4 (1+z) cm^-3
+# DIM: 10^5 K < T < 10^7 K, n < 10^-4 (1+z) cm^-3
+# Star-forming Gas: T < 10^7 K, n > 0.13 cm^-3, SFR > 0
+# 
+ z      WHIM    DIM     SFGas
+0.0     1.91e-1 3.85e-2 1.69
+0.5     1.47e-1 1.70e-2 1.52
+1.0     1.19e-1 9.60e-3 1.30
+2.0     5.72e-2 4.92e-3 8.81e-1
+4.0     2.01e-2 7.06e-4 3.55e-1
+6.0     1.30e-2 1.30e-4 1.33e-1
+8.0     7.82e-3 1.91e-5 5.90e-2
