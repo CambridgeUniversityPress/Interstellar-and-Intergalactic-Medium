@@ -44,7 +44,7 @@ Crab Nebula from the *Hubble Space Telescope*: [HST heic0515a](https://esahubble
 ### Figure 1.8 - Cygnus Loop
 Cygnus Loop from the NOAO 0.9-meter telescope: [NOIRLab noao1209a](https://noirlab.edu/public/images/noao1209a)
 
-### Figure 1.2
+### Figure 1.2 - Cat's Eye Nebula Spectrum
 This is a reproduction of William Huggins' 1864 photographic spectrum of the Cat's Eye planetary nebula
 (Plate X, Figure 5 of Huggins 1864, Phil. Trans. R. Soc., 154, 437), scanned by the authors and included
 in this repository.
