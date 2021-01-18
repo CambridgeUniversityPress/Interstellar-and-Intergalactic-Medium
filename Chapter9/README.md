@@ -35,11 +35,10 @@ Table 5, using equations 3 and 4 of their paper to convert their measurements in
 * **Bosman_highz_tau.txt** - Derived optical depth as a function of redshift: 3-column ASCII text
 
 ### Figure 9.5
-Calculations were performed using [CAMB](https://camb.info/) written by Antony Lewis and Anthony Challinor.
-The calculations are pre-computed and stored in an ASCII data file using the 
+The data are pre-computed by the authors using [CAMB](https://camb.info/) and the  
 [CAMB Web Interface](https://lambda.gsfc.nasa.gov/toolbox/tb_camb_form.cfm) at NASA Goddard Space Flight Center's
-Legacy Archive for Microwave Background Data Analysis ([LAMBDA](https://lambda.gsfc.nasa.gov/)).  These files
-were then merged into a single data file
+Legacy Archive for Microwave Background Data Analysis ([LAMBDA](https://lambda.gsfc.nasa.gov/)). The output
+files from CAMB were then merged into this single data file:
 * **CAMB_tau_e.txt** - CMB Power Spectrum: 6-column ASCII text
 
 ### Figure 9.7
