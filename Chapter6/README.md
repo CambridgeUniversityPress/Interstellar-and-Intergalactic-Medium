@@ -27,12 +27,13 @@ edition of the 1899 *Astrophysical Journal*, Volume 9.
 
 ## Data Files:
 
-Some of the Jupyter notebooks above have accompanying data files that should be stored in the same folder the notebooks.
+Some of the Jupyter notebooks above have accompanying data files that should be stored in the same folder the notebooks.  In all
+cases the individual notebooks usually explain the data used from each, and all data files have explanatory comment headers.
 
 ### Figure 6.2
 Luminosity and angular-diameter distances for 100 open star clusters from 
-[Trumpler, R. 1930, Lick Observatory Bulletin #420, 14, 154](https://ui.adsabs.harvard.edu/abs/1930LicOB..14..154T), Table 3.  See the 
-Jupyter notebook for what data were used. 
+[Trumpler, R. 1930, Lick Observatory Bulletin #420, 14, 154](https://ui.adsabs.harvard.edu/abs/1930LicOB..14..154T), derived from Table 3
+and converted into kiloparsecs. 
  * **Trumpler_GoodData.txt** - good open cluster distances, 2-column ASCII text
  * **Trumpler_BadData.text** - less-certain open cluster distances, 2-column ASCII text
 
