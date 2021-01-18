@@ -2,9 +2,7 @@
 
 Figures from Chapter 5 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Contents:
-
-### Jupyter Notebooks:
+## Jupyter Notebooks:
 <dl>
 <dd>Figure 5.4 - Sedov–Taylor solution for a spherical blastwave with gamma = 5/3.
 <dd>Figure 5.6 - Ion fractions for carbon and oxygen in collisional ionization equilibrium (CIE).
@@ -55,7 +53,6 @@ Intel Core i5 iMac.
 * **cieSpec_Calc.ipynb**: Jupyter notebook to use ChiantiPy and CHIANTI to compute the X-ray spectrum of gas in CIE and 
 create an output ASCII text file with the spectrum and its components. The calculation time can be many minutes.
 
-
 ## Revision History
 
-* v1.0 - 2021 Jan 16, first version in advance of publication [rwp/osu]
+* 2021 Jan 16, first version in advance of publication [rwp/osu]
