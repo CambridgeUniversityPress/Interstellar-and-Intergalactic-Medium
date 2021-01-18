@@ -1,0 +1,16 @@
+#
+# Mean effective optical depth of Lyman-alpha
+# derived from data in Bosman et al. 2018 MNRAS 479, 1055
+# Table 5, plus eqns 3 and 4 to convert their data into
+# effective tau and error.
+#
+# z - redshift
+# tau - optical depth
+# tauErr - error on tau
+z       tau     tauErr
+5.0     1.987   0.355
+5.2     2.271   0.405
+5.4     2.539   0.591
+5.6     3.077   0.790
+5.8     3.711   0.879
+6.0     5.178   0.657
