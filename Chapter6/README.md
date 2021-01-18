@@ -11,7 +11,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 6.4 - Real and imaginary indices of refraction of silicon at T=300K
 <dd>Figure 6.5 - Efficiency factor Q_ext for two values of the real index of refraction
 <dd>Figure 6.6 - Reflectance spectra of olivine, pyroxene, and carbon
-<dd>Figure 6.7 - 
+<dd>Figure 6.7 - Infrared spectrum of embedded young stellar object RAFGL7009S (IRAS 18316-0602)
 <dd>Figure 6.8 - 
 <dd>Figure 6.10 - 
 </dl>
@@ -52,10 +52,15 @@ We've consolidated the data for these materials into single ASCII text files for
 
 See the Jupyter notebook and the individual file headers for detailed provenance information for each data set.
 
+### Figure 6.7
+Infrared spectrum of RAFGL7009S (IRAS 18316-0602), a young stellar object embedded behind ~40 magnitudes of dust extinction at optical wavelengths from 
+[Dartois et al. 1998, A&A, 338, 21](https://ui.adsabs.harvard.edu/abs/1998A%26A...338L..21D).  Data are ISO archival SWS/LWS spectral data provided by 
+Adwin Boogert (U. Hawaii).
+ * **GL7009S_ISO.txt** - spectrum of RAFGL7009S, 2-column ASCII text
+
 ### Figure 6.x
-...
- * whatever
- 
+data for somehting
+ * **filename** - description 
 
 
 ## Revision History
