@@ -23,7 +23,7 @@ Dark Nebula Barnard 68 from the ESO Very Large Telescope: [VLT eso0102a](https:/
 Orion Nebula from the *Hubble Space Telescope*: [HST heic0601a](https://esahubble.org/images/heic0601a)
 
 ### Figure 1.6 - Ring Nebula
-Ring Nebula from the *Hubble Space Telescope*:[HST heic1310a](https://esahubble.org/images/heic1310a)
+Ring Nebula from the *Hubble Space Telescope*: [HST heic1310a](https://esahubble.org/images/heic1310a)
 
 ### Figure 1.7 - Crab Nebula
 Crab Nebula from the *Hubble Space Telescope*: [HST heic0515a](https://esahubble.org/images/heic0515a)
