@@ -17,8 +17,9 @@ Figures 2.1 and 2.2 are reprinted from journal articles, see below.
 
 ## Data Files:
 
-Figures 2.3 and 2.8 have accompanying data files that should be kept 
-in the same folder as the corresponding Jupyter notebooks.
+Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same
+folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
+and all data files have explanatory comment headers.
 
 ### Figure 2.3
  * **HoII_MODS1_Spec.txt**: Holmberg II HII region spectrum from the Large Binocular Telescope MODS1 spectrograph, 2-column ASCII text.
