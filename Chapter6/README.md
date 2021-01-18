@@ -49,7 +49,14 @@ We've consolidated the data for these materials into single ASCII text files for
  * **Olivine_GDS80a.txt** - olivine optical/near-IR reflectance spectrum, 3-column ASCII text
  * **Bronzite_HS9.3b.txt** - pyroxene (bronzite) optical/near-IR reflectance spectrum, 3-column ASCII text
  * **Carbon_Black_GDS68.txt** - carbon optical/near-IR reflectance spectrum, 3-column ASCII text
-See the Jupyter notebook and individual file headers for detailed provenance information for each data set.
+
+See the Jupyter notebook and the individual file headers for detailed provenance information for each data set.
+
+### Figure 6.x
+...
+ * whatever
+ 
+
 
 ## Revision History
 
