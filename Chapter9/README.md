@@ -18,8 +18,35 @@ Some of the Jupyter notebooks for this chapter have external data files that sho
 folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
 and all data files have explanatory comment headers.
 
-### Figure X.n
-* HoII_MODS1_Spec.txt: Holmberg II HII region spectrum, 2-column ASCII text
+### Figure 9.1
+Data provided by William Keel, the University of Alabama, Department of Astronomy
+* **3C273_STIS.txt** - HST STIS UV spectrum of quasar 3C273: 2-column ASCII text
+* **Q1422B10.txt** - Optical spectrum of quasars Q1422+2307 (z=3.62): 2-column ASCII text
+
+### Figure 9.2
+Data provided by Xiaohui Fan and Feige Wang, University of Arizona, Department of Astronomy. 
+Originally published as [Fan et al. 2001, AJ, 122, 2833](https://ui.adsabs.harvard.edu/abs/2001AJ....122.2833F)
+* **J0836+0054_ESI.txt** - Keck ESI spectrum of J0836+0054: 3-column ASCII text
+* **J1306+0356_ESI.txt** - Keck ESI spectrum of J1306+0356: 3-column ASCII text
+
+### Figure 9.4
+Optical depths derived from data in [Bosman et al. 2018, MNRAS, 479, 1055](https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.1055B),
+Table 5, using equations 3 and 4 of their paper to convert their measurements into mean effective optical depth.
+* **Bosman_highz_tau.txt** - Derived optical depth as a function of redshift: 3-column ASCII text
+
+### Figure 9.5
+Calculations were performed using [CAMB](https://camb.info/) written by Antony Lewis and Anthony Challinor.
+The calculations are pre-computed and stored in an ASCII data file using the 
+[CAMB Web Interface](https://lambda.gsfc.nasa.gov/toolbox/tb_camb_form.cfm) at NASA Goddard Space Flight Center's
+Legacy Archive for Microwave Background Data Analysis ([LAMBDA](https://lambda.gsfc.nasa.gov/)).  These files
+were then merged into a single data file
+* **CAMB_tau_e.txt** - CMB Power Spectrum: 6-column ASCII text
+
+### Figure 9.7
+Data are from the ESO UVES spectrograph obtained from the [ESO Science Archive Facility](http://archive.eso.org), 
+Table spectrum_qso_34.424-37.017.tbl, along with a model of the damped Lyman-alpha absorption
+calculated by Stephan Frank, Ohio State University, Department of Astronomy.
+* **J021741.8-370100_norm.txt** - ESO UVES observed Lyman-alpha spectrum and model: 3-column ASCII text
 
 ## Revision History
 
