@@ -21,7 +21,6 @@ Figure 3.3 is reproduced from the published literature (see below).
  * **robitaille_DL07_PAHISMMix_8.5_0_0_Flux.fits**, from [Porter et al. 2017](https://ui.adsabs.harvard.edu/abs/2017ApJ...846...67P/abstract), using the model file for x,y,z=(8.5,0,0)kpc, using the [Robataille et al. 2012](https://ui.adsabs.harvard.edu/abs/2012A%26A...545A..39R/abstract) (R12) 3D radiative transfer dust and stellar model.  
 
 ## Literature Figures
-
 <dl>
 <dd>Figure 3.3 - Reproduced from the upper right panel of Figure 12 in
     <a href="http://ui.adsabs.harvard.edu/abs/1983ApJS...53..591D">Dickey et al. 1983, ApJS, 53, 591</a>
