@@ -23,12 +23,13 @@ and new explorations rather than being frozen into print.
 
 ## Software Requirements
 
-All notebooks were developed in Python 3 using the [Anaconda Python distribution](www.anaconda.com). Primary packages used are numpy, 
-scipy, pandas, matplotlib, and astropy.
+All notebooks were developed in Python 3 using the [Anaconda Python distribution](www.anaconda.com). 
+
+Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda.
 
 LaTeX is required for math symbols in the notebooks.
 
-Additional packages we used for a few of the figures that are not part of the Anaconda distribution are:
+Packages used for a few of the figures that are not part of the Anaconda distribution:
 
  * HEALPix format FITS files require use of [healpy](https://github.com/healpy/healpy) (e.g., for all-sky map data).
 
