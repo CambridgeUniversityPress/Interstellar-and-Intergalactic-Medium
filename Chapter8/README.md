@@ -29,9 +29,8 @@ Original data was provided to the authors by Fabio Gastaldello, INAF-ISAF Milan
 Data set for Figures 8.1 is too large for GitHub, so we provide links to the online source here.  The data files need to be
 stored in the same folder as the corresponding Jupyter notebooks and uncompressed.
 
-### Figure 8.1 - All-Sky HI 21-cm HI4PI Survey HVC Map
-
-Version of the [Westmeier 2018, MNRAS, 474, 289](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474..289W) HI4PI HVC HI column density map from Tobias Westmeier:
+### Figure 8.1
+Version of the [Westmeier 2018, MNRAS, 474, 289](https://ui.adsabs.harvard.edu/abs/2018MNRAS.474..289W) HI4PI Survey HVC HI column density map from Tobias Westmeier:
 * [An all-sky map of high-velocity clouds](https://www.atnf.csiro.au/people/Tobias.Westmeier/research_hvcsky.php#download) FITS format in Cartesian coordinates,
 (8Mb compressed, 37Mb uncompressed)
 
