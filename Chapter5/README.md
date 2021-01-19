@@ -2,7 +2,7 @@
 
 Figures from Chapter 5 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 <dl>
 <dd>Figure 5.4 - Sedov–Taylor solution for a spherical blastwave with gamma = 5/3.
 <dd>Figure 5.6 - Ion fractions for carbon and oxygen in collisional ionization equilibrium (CIE).
@@ -11,7 +11,7 @@ Figures from Chapter 5 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 5.9 - Location in galactic coordinates of nearby hot DA white dwarfs.
 </dl>
 
-## Data Files:
+## Data Files
 
 Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same
 folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
