@@ -2,7 +2,7 @@
 
 Figures from Chapter 2 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 <dl>
   <dd>Figure 2.3 - HII region spectrum (Holmberg II)
   <dd>Figure 2.4 - Gaussian & Lorentzian profiles
@@ -13,7 +13,7 @@ Figures from Chapter 2 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 </dl>
 Figures 2.1 and 2.2 are reprinted from journal articles, see below.
 
-## Data Files:
+## Data Files
 
 Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same
 folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
@@ -26,7 +26,7 @@ and all data files have explanatory comment headers.
  * **alphaCenA_LyA.txt**: Alpha Cen A HST HRS UV spectrum, 2-column ASCII text.
  * **alphaCenB_LyA.txt**: Alpha Cen B HST HRS UV spectrum, 2-column ASCII text.
  
-## Literature Figures:
+## Literature Figures
 
 Figures 2.1 and 2.2 were scanned from published papers as the original data are unavailable to make new plots. Links to the papers on ADS are provided below:
 
