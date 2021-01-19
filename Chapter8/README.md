@@ -24,7 +24,7 @@ Sanskriti Das, Ohio State University, Department of Astronomy.
 * **Das2019_RGS2.txt** - XMM-Newton RGS2 X-ray spectrum: 8-column ASCII text.
 
 ### Figure 8.3
-XMM-Newton X-ray emission spectra of the Milky Way circumgalactic Medium from [Das et al. 2019, ApJ, 887, 257](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..257D
+XMM-Newton X-ray emission spectra of the Milky Way circumgalactic Medium from [Das et al. 2019, ApJ, 887, 257](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..257D)
 Figure 2a, provided by Sanskriti Das.  These are all in the CGM/ folder that accompanies this notebook. The data are all multi-column ASCII text format,
 organized by data set. There are 10 data sets in all that contribute as described in Das et al. 2019. 
 * **CGMdata.tgz** - gzipped tar file with the CGM data sets.  Unpacks into the **CGM/** folder with all its subfolders and files. [287Kb]
