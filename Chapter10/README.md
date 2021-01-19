@@ -2,7 +2,7 @@
 
 Figures from Chapter 10 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 <dl>
  <dd>Figure 10.2 - Redshift evolution of the baryonic mass fraction
  <dd>Figure 10.3 - Phase diagram of gas in the universe at redshift z=0
@@ -11,7 +11,7 @@ Figures from Chapter 10 of Ryden & Pogge, *Interstellar and Intergalactic Medium
  <dd>Figure 10.6 - <i>XMM-Newton X-ray Telescope</i> spectrum of the quasar 1ES 1553+113
 </dl>
 
-## Data Files:
+## Data Files
 
 Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same
 folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
