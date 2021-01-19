@@ -2,7 +2,7 @@
 
 Figures from Chapter 3 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 <dl>
 <dd>Figure 3.2 - All-sky map of HI 21-cm column density
 <dd>Figure 3.4 - Spectral Energy Distribution of interstellar light near the Sun
@@ -10,7 +10,7 @@ Figures from Chapter 3 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 Figure 3.1 is in the PowerPoint slide set and not provided here, while
 Figure 3.3 is reproduced from the published literature (see below).
 
-## Data Files:
+## Data Files
 
 ### Figure 3.2
  * [HI4PI HI Column Density Map in FITS HEALPix format](https://lambda.gsfc.nasa.gov/product/foreground/fg_hi4pi_info.cfm), NHI_HPX.fits, is too large for GitHub (332Mb compressed, 604Mb uncompressed) so you will need retrieve it from the NASA GSFC LAMBDA database at the link provided.
