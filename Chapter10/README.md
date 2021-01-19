@@ -21,7 +21,7 @@ and all data files have explanatory comment headers.
 * **Martizzi_BaryonicMass.txt**
 
 ### Figure 10.3
-* **Fig10_3_Martizzi_core.png** - Grayscale version of the TNG100 phase diagram from the rigth panel of
+* **Fig10_3_Martizzi_core.png** - Grayscale version of the TNG100 phase diagram from the right panel of
 [Martizzi et al. 2019, MNRAS, 486, 3766](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.3766M) Figure 10.
 
 ### Figure 10.4
