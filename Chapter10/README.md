@@ -21,7 +21,8 @@ and all data files have explanatory comment headers.
 * **Martizzi_BaryonicMass.txt**
 
 ### Figure 10.3
-* **Fig10_3_Martizzi_core.png** - 
+* **Fig10_3_Martizzi_core.png** - Grayscale version of the TNG100 phase diagram from the rigth panel of
+[Martizzi et al. 2019, MNRAS, 486, 3766](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.3766M) Figure 10.
 
 ### Figure 10.4
 * **Martizzi_Metallicity.txt**
@@ -38,8 +39,8 @@ Cooling/ folder has the data, code, and its own README.md file
 
 ### Figure 10.1
 Distributions of diffuse and warm-hot intergalactic gas from [Martizzi et al. 2019, MNRAS, 486, 3766](https://ui.adsabs.harvard.edu/abs/2019MNRAS.486.3766M),
-using a color full-resolution of the original graphic from that paper provided by Davide Martizzi. For the book we selected two panels and converted them to
-grayscale.
+using a color full-resolution of the original Figure 8 from that paper provided by Davide Martizzi. For the book we selected two panels from the uppr right 
+and converted them to grayscale.
  * **Fig10_1_Martizzi.jpg**
 
 ## Revision History
