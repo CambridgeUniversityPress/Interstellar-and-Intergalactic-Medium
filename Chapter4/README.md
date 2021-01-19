@@ -2,7 +2,7 @@
 
 Figures from Chapter 4 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 <dl>
 <dd>Figure 4.1 - Photoionization cross-sections of H and He
 <dd>Figure 4.2 - Radius of a Stromgren sphere
@@ -13,7 +13,7 @@ Figures from Chapter 4 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 </dl>
 All other figures are original artwork included in the book slide set.
 
-## Data Files:
+## Data Files
 
 Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same
 folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
