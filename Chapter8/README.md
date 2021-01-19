@@ -2,7 +2,7 @@
 
 Figures from Chapter 8 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 <dl>
 <dd>Figure 8.1 - All-sky map of HI column density for Milky Way high-velocity clouds
 <dd>Figure 8.2 - XMM-Newton X-ray spectrum of the quasar 1ES 1553+113
@@ -10,7 +10,7 @@ Figures from Chapter 8 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 8.6 - NuSTAR spectrum of the central 12 × 12 arcmin region of the Coma Cluster
 </dl>
 
-## Data Files:
+## Data Files
 
 Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same
 folder as the notebooks.  In all cases the individual notebooks describe the contents of the data files, 
