@@ -36,13 +36,14 @@ stored in the same folder as the corresponding Jupyter notebooks and uncompresse
 The grayscale images in Figures 8.4 and 8.5 were derived from original color images:
 
 ### Figure 8.4 - M82
-
-M82 Spitzer and Chandra
+Images of starburst galaxy M82 from the Spitzer and Chandra space telescopes.
+  * M82 in the infrared taken with the Spitzer Space Telescope: [Spitzer sig14-004a](http://www.spitzer.caltech.edu/images/5743-sig14-004a-The-Cigar-Galaxy-M82)
+  * M82 in X-rays taken with the Chandra X-ray Observatory: [Chandra 2011 M82](https://chandra.harvard.edu/photo/2011/m82/)
 
 ### Figure 8.5 - Coma Cluster
-
-Coma Cluster SDSS and Chandra
+Images of the Coma Cluster of galaxies in visible light (Sloan Digital Sky Survey) and X-rays (Chandra X-ray Observatory).
+  * Coma Cluster in X-ray and Optical: [Chandra 2019 Coma](https://chandra.harvard.edu/photo/2019/coma/)
 
 ## Revision History
 
-* 2021 Jan 18, first version in advance of publication [rwp/osu]
+* 2021 Jan 19, first version in advance of publication [rwp/osu]
