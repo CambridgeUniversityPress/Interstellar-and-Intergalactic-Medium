@@ -27,6 +27,7 @@ Sanskriti Das, Ohio State University, Department of Astronomy.
 XMM-Newton X-ray emission spectra of the Milky Way circumgalactic Medium from [Das et al. 2019, ApJ, 887, 257](https://ui.adsabs.harvard.edu/abs/2019ApJ...887..257D
 Figure 2a, provided by Sanskriti Das.  These are all in the CGM/ folder that accompanies this notebook. The data are all multi-column ASCII text format,
 organized by data set. There are 10 data sets in all that contribute as described in Das et al. 2019. 
+* **CGMdata.tgz** - gzipped tar file with the CGM data sets.  Unpacks into the **CGM/** folder with all its subfolders and files. [287Kb]
 
 ### Figure 8.6
 Original data was provided to the authors by Fabio Gastaldello, INAF-ISAF Milan
