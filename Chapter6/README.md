@@ -2,7 +2,7 @@
 
 Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 <dl>
 <dd>Figure 6.2 - Replotting of Trumpler's 1930 Angular-diameter distance versus luminosity distance for 100 open clusters.
 <dd>Figure 6.3 - Clayton, Cardelli, and Mathis (1989) interstellar extinction curve
@@ -14,7 +14,7 @@ Figures from Chapter 6 of Ryden & Pogge, *Interstellar and Intergalactic Medium*
 <dd>Figure 6.10 - Weingartner and Draine (2001) grain size distribution
 </dl>
 
-## Data Files:
+## Data Files
 
 Some of the Jupyter notebooks for this chapter have external data files that should be stored in the same folder as the notebooks.  In all
 cases the individual notebooks describe the contents of the data files, and all data files have explanatory comment headers.
