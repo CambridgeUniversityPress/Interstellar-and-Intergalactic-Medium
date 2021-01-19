@@ -33,7 +33,8 @@ organized by data set. There are 10 data sets in all that contribute as describe
 Original data was provided to the authors by Fabio Gastaldello, INAF-ISAF Milan
 * **Coma_NuSTAR_spectrum.txt** - NuSTAR X-ray spectrum of the Coma Cluster core from [Gastaldello, et al. 2015, ApJ, 800, 139](https://ui.adsabs.harvard.edu/abs/2015ApJ...800..139G/), Figure 3: 5-column ASCII text
 
-Data set for Figures 8.1 is too large for GitHub, so we provide links to the online source here.  The data files need to be
+## External Data
+The data set for Figure 8.1 is too large for GitHub, so we provide a link to the online source here.  The data file need to be
 stored in the same folder as the corresponding Jupyter notebooks and uncompressed.
 
 ### Figure 8.1
