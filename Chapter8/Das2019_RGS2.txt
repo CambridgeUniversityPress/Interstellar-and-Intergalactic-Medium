@@ -1,5 +1,6 @@
 #
-# Milky Way XMM-Newton RGS2 CGM Spectrum
+# Milky Way XMM-Newton RGS1 CGM X-ray Absorption Spectrum
+# Background source: Blazar 1ES1553+113
 #
 # Source: Das et al. 2019, ApJL, 882, L23
 #
