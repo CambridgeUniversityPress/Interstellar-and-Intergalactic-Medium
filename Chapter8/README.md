@@ -17,7 +17,11 @@ folder as the notebooks.  In all cases the individual notebooks describe the con
 and all data files have explanatory comment headers.
 
 ### Figure 8.2
-* data
+XMM-Newton RGS1 X-ray spectrum of the Milky Way circumgalactic medium in absorption towards the quasar 1ES1553+113 from
+[Das et al. 2019, ApJL, 882, L23](https://ui.adsabs.harvard.edu/abs/2019ApJ...882L..23D), Figure 2, data provided by
+Sanskriti Das, Ohio State University, Department of Astronomy.
+* **Das2019_RGS1.txt** - XMM-Newton RGS1 X-ray spectrum: 8-column ASCII text.
+* **Das2019_RGS2.txt** - XMM-Newton RGS2 X-ray spectrum: 8-column ASCII text.
 
 ### Figure 8.3
 * data
