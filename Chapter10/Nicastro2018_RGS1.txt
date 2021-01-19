@@ -1,9 +1,12 @@
 #
-# Nicastro et al. 2018 RGS1 Spectrum
+# Nicastro et al. 2018 XMM-Newton RGS1 X-ray Spectrum of IES1533+113
 #
-# Column1: wavelength (angstrom), column2: err_wavelength
-# Column3: flux (Jansky), column4: err_flux
-# Column 5: Best-fit model, 6: continuum
+# wavelength: wavelength in Angstroms
+# err_wavelength: wavelength error in Angstroms
+# flux: X-ray flux in Jansky
+# err_flux: error on flux in Jansky
+# model: best-fit model
+# continuum: bset-fit continuum
 #
 wavelength                      err_wavelength                  flux                            err_flux                        model                           continuum
 8.020000460000000331e+00        1.999999209999999902e-02        1.714737779999999902e-06        6.212891890000000228e-08        1.768121710000000042e-06        1.768121710000000042e-06
