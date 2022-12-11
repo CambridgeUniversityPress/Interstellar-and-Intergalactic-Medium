@@ -22,9 +22,9 @@ and new explorations rather than being frozen into print.
 
 ## Software Requirements
 
-All notebooks were developed in Python 3 using the [Anaconda Python distribution](www.anaconda.com). 
+All notebooks were developed in Python 3 using the [Anaconda Python distribution](https://www.anaconda.com). 
 
-Required packages are numpy, scipy, pandas, matplotlib, and astropy, all part of Anaconda.
+Required packages are numpy, scipy, pandas, matplotlib, and astropy, all available with Anaconda.
 
 LaTeX is required for math symbols in the notebooks.
 
@@ -68,5 +68,5 @@ reference to the *Interstellar and Intergalactic Medium* and this repository.
 
 ### License Notice
 
-All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), to foster
-broader use of the notebooks and their data by teachers and students.
+All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), to 
+foster broader use of the notebooks and their data by teachers and students.
