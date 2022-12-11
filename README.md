@@ -44,7 +44,21 @@ to generate the pre-computed data files as worked examples of using CHIANTI and 
 
 ## Download, Install, and Updates
 
-*coming soon, after we test the instructions ourselves*
+### Download and Install
+
+To download a full copy of this repository onto your local computer, go to the folder on your computer where you want to install it and type
+
+> `git clone https://github.com/CambridgeUniversityPress/Interstellar-and-Intergalactic-Medium`
+
+This will create the `Interstellar-and-Intergalactic-Medium` folder containing the entire repository.
+
+### Update
+
+To update an existing copy, go into your local copy of the repository (e.g., `/path/to/wherever/Interstellar-and-Intergalactic-Medium`) and type
+
+> `git pull`
+
+If there are updates, your copy will be brought up to date.
 
 ## Use and Attribution
 
