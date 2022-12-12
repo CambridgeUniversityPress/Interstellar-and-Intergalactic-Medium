@@ -43,7 +43,9 @@ with the corresponding Jupyter notebooks. Those wishing to explore CIE beyond th
 full CHIANTI database and the ChiantiPy package. **CHIANTI and ChiantiPy are not required to use these notebooks.**  We've included the code we used
 to generate the pre-computed data files as worked examples of using CHIANTI and ChiantiPy.
 
-## Download, Install, and Updates
+## Downloads
+
+### Download and Install
 
 To download a copy of this repository onto your local computer, go to the folder on your computer where you want to install it and type
 
@@ -52,7 +54,7 @@ To download a copy of this repository onto your local computer, go to the folder
 This will create the `Interstellar-and-Intergalactic-Medium` folder containing the entire repository.  You may rename this repository after
 installation to shorten the name if you wish (e.g., `/path/to/wherever/ISM_IGM`).
 
-### Update
+### Update the notebooks and data
 
 To update your copy, go into the top-level folder you created above (e.g., `/path/to/wherever/ISM_IGM`) and type
 
