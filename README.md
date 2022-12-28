@@ -29,9 +29,9 @@ LaTeX is required for math symbols in the notebooks.
 
 There are two packages used for a few of the figures that are not part of the Anaconda distribution:
 
- * HEALPix format FITS files require use of [healpy](https://github.com/healpy/healpy) (e.g., for all-sky map data).
+ * HEALPix format FITS files require use of [healpy](https://github.com/healpy/healpy) (e.g., for all-sky map data in Chapters 1, 3, and 7).
 
- * Nebular emission-line calculations use [PyNeb](https://github.com/Morisset/PyNeb_devel).
+ * Nebular emission-line calculations in Chapter 4 use [PyNeb](https://github.com/Morisset/PyNeb_devel).
  
 If needed, these packages can be installed following the instructions on the project websites listed.
 
