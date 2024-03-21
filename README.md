@@ -23,14 +23,13 @@ and new explorations rather than being frozen into print.
 
 All notebooks were developed in Python 3 using the [Anaconda Python distribution](https://www.anaconda.com). 
 
-Required packages are numpy, scipy, pandas, matplotlib, and astropy, all available with Anaconda.
+Required Python packages are numpy, scipy, pandas, matplotlib, and astropy, all of which are part of the Anaconda Python distribution.
 
-LaTeX is required for math symbols in the notebooks.
+LaTeX is required to plot math symbols in the notebooks.
 
-There are two packages used for a few of the figures that are not part of the Anaconda distribution:
+There are two packages used by some of the figures that are not part of the Anaconda distribution:
 
  * HEALPix format FITS files require use of [healpy](https://github.com/healpy/healpy) (e.g., for all-sky map data in Chapters 1, 3, and 7).
-
  * Nebular emission-line calculations in Chapter 4 use [PyNeb](https://github.com/Morisset/PyNeb_devel).
  
 If needed, these packages can be installed following the instructions on the project websites listed.
