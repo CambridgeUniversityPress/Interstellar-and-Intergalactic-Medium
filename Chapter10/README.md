@@ -31,7 +31,7 @@ and all data files have explanatory comment headers.
 The cooling functions for a range of metallicities were computed using [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy/) v0.9.5 and the
 [CHIANTI atomic database](https://www.chiantidatabase.org/). This computation is very time-consuming (about 24 hours) so a separate program was used to 
 perform the calcuations and we provide the computation results as a set of ASCII text files in the **Cooling/** folder that accompanies this notebook.
-See the README.md file in the Cooling/ folder for information.
+See the `README.md` file in the `Cooling/` folder for information.
 
 ### Figure 10.6
 *XMM-Newton X-ray Telescope* Reflection Grating Spectrometer (RGS) spectra of quasar 1ES1553+113 from 
