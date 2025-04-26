@@ -57,3 +57,5 @@ Images of the Coma Cluster of galaxies in visible light (Sloan Digital Sky Surve
 ## Revision History
 
 * 2021 Jan 19, first version in advance of publication [rwp/osu]
+* 2025 Apr 25, updated Fig 8.3 to use `pathlib` for transparent OS-agnostic path handling [rwp/osu]
+
