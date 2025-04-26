@@ -51,3 +51,4 @@ and converted them to grayscale.
 ## Revision History
 
 * 2021 Jan 18, first version in advance of publication [rwp/osu]
+* 2025 Apr 25, updated Fig 10.5 to use `pathlib` for transparent OS-agnostic path handling [rwp/osu]
