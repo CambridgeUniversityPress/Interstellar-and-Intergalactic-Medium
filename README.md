@@ -23,7 +23,7 @@ and new explorations rather than being frozen into print.
 
 All notebooks were developed in Python 3 using the [Anaconda Python distribution](https://www.anaconda.com). 
 
-Required Python packages are numpy, scipy, pandas, matplotlib, and astropy, all of which are part of the Anaconda Python distribution.
+Required Python packages are `numpy`, `scipy`, `pandas`, `matplotlib`, `pathlib`, and `astropy`, all of which are part of the Anaconda Python distribution.
 
 LaTeX is required to plot math symbols in the notebooks.
 
