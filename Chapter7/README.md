@@ -43,3 +43,4 @@ Figure 1 middle panel.
 ## Revision History
 
 * 2021 Jan 17, first version in advance of publication [rwp/osu]
+* 2025 Apr 25, updated Figs 7.1 and 7.3 to use `pathlib` for transparent OS-agnostic path handling [rwp/osu]
