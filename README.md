@@ -73,7 +73,7 @@ citation of the data source (journal article, online database, etc.).
 
 ### Book Citation
 
-DOI: [10.1017/978110886924](https://doi.org/10.1017/9781108869249)
+DOI: [10.1017/9781108781596](https://doi.org/10.1017/9781108781596)
 
 #### BibTeX
 ADS BibTeX citation text ready to cut-and-paste.  Other formats are
