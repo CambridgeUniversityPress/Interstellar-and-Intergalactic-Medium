@@ -77,7 +77,7 @@ DOI: [10.1017/9781108781596](https://doi.org/10.1017/9781108781596)
 
 #### BibTeX
 ADS BibTeX citation text ready to cut-and-paste.  Other formats are
-available at the [ADS Abstract for the book](https://i.adsabs.harvard.edu/abs/2021iim..book.....R).
+available at the [ADS Abstract for the book](https://ui.adsabs.harvard.edu/abs/2021iim..book.....R).
 ```
 @BOOK{2021iim..book.....R,
        author = {{Ryden}, Barbara Sue and {Pogge}, Richard W.},
