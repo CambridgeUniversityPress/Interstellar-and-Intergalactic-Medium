@@ -93,3 +93,10 @@ available at the [ADS Abstract for the book](https://ui.adsabs.harvard.edu/abs/2
 
 All files in this repository are licensed under a [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/), to 
 foster broader use of the notebooks and their data by teachers and students.
+
+### Generative AI Statement
+
+The source code, logic, and documentation in these notebooks were
+created by the author without use of Generative AI tools, large-language 
+models, or AI code assistants.
+
